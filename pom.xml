@@ -12,6 +12,8 @@
         <exec.mainClass>perficient.practicaperficient.PracticaPerficient</exec.mainClass>
     </properties>
     
+    <dependencies>
+    
     <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
     <dependency>
         <groupId>org.junit.jupiter</groupId>
@@ -28,5 +30,5 @@
         <scope>test</scope>
     </dependency>
 
-
+    </dependencies>
 </project>
